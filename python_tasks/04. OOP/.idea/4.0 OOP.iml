@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/09.UnitTesting/01. Lab/04.car_manager" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.Exam_Training/01.hardware_software_143_150/03. Unit Tests_Skeleton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.Exam_Training/01.hardware_software_143_150" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.Exam_Training/05.bakery_DONE" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11 (4.0 OOP)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Django" />
+  </component>
+</module>

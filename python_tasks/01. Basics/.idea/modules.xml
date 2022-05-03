@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/First-Steps-In-Coding.iml" filepath="$PROJECT_DIR$/.idea/First-Steps-In-Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fundamentals-May-2021/.idea/Fundamentals-May-2021.iml" filepath="$PROJECT_DIR$/../Fundamentals-May-2021/.idea/Fundamentals-May-2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Others/.idea/Others.iml" filepath="$PROJECT_DIR$/../Others/.idea/Others.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Training for Exams 1/.idea/Training for Exams 1.iml" filepath="$PROJECT_DIR$/../Training for Exams 1/.idea/Training for Exams 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Training for Exams 2/.idea/Training for Exams 2.iml" filepath="$PROJECT_DIR$/../Training for Exams 2/.idea/Training for Exams 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Training for Exams 3/.idea/Training for Exams 3.iml" filepath="$PROJECT_DIR$/../Training for Exams 3/.idea/Training for Exams 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Training for Exams 4/.idea/Training for Exams 4.iml" filepath="$PROJECT_DIR$/../Training for Exams 4/.idea/Training for Exams 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Training for Exams 5/.idea/Training for Exams 5.iml" filepath="$PROJECT_DIR$/../Training for Exams 5/.idea/Training for Exams 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Training for Exams 6/.idea/Training for Exams 6.iml" filepath="$PROJECT_DIR$/../Training for Exams 6/.idea/Training for Exams 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Training for Exams 7/.idea/Training for Exams 7.iml" filepath="$PROJECT_DIR$/../Training for Exams 7/.idea/Training for Exams 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Training for Exams 8/.idea/Training for Exams 8.iml" filepath="$PROJECT_DIR$/../Training for Exams 8/.idea/Training for Exams 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../password_manager/.idea/assword_manager.iml" filepath="$PROJECT_DIR$/../password_manager/.idea/assword_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Others/lecture2/.idea/lecture2.iml" filepath="$PROJECT_DIR$/../Others/lecture2/.idea/lecture2.iml" />
+    </modules>
+  </component>
+</project>

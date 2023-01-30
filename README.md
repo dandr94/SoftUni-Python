@@ -14,6 +14,8 @@ It was a fun journey and I uploaded these mostly because I don't want to lose th
 
 
 # Python Path in SoftUni
+Below represents what I've been taught going through the Python path. Keep in mind that this is most of the things but not all since it will take a lot of time to list all of them.
+
 The Python path covers a lot, and it consisted of 3 different modules:
 | Module | Course |
 | ------ | ------ |
@@ -29,7 +31,7 @@ In Python Basics your learn about:
 | Basic Syntax | - |
 | Fundamentals | Python Fundamentals |
 | Conditional Statements | If, Elif, Else |
-> Exam: Consists of 3 tasks on the taughed subjects.
+> Exam: Consists of 3 tasks on the taught subjects.
 
 ### Python Fundamentals
 In Python Fundamentals your learn about:
@@ -51,7 +53,7 @@ In Python Fundamentals your learn about:
 - Database Basics (SQL vs. NoSQL, DBMS)
 - QA Introduction (Bugs and Bug Trackers, Test Types and Test Levels, Test Automation, Frameworks and Tools, )
 - Introduction to Git and GitHub 
-> Exam: Consists of 3 tasks on the taughed subjects.
+> Exam: Consists of 3 tasks on the taught subjects.
 
 ### Python Advanced
 Python Advanced consists of 2 courses - Advanced and OOP.<br/>
@@ -66,7 +68,7 @@ In Advanced you learn about:
 | File Handling | PFO, CRUD |
 | Error Handling | Common Error Types, Custom Exceptions, Catching Exceptions |
 | Modules | Build-in Modules, External Modules - PIP, Custom Modules |
-> Exam: Consists of 3 tasks on the taughed subjects.
+> Exam: Consists of 3 tasks on the taught subjects.
 
 In OOP you learn about:
 | Topic | Additional Information |
@@ -80,7 +82,7 @@ In OOP you learn about:
 | Decorators | - |
 | Testing | UnitTest, Mocking |
 | Design Patterns | - |
-> Exam: Consists of 3 tasks on the taughed subjects.
+> Exam: Consists of 3 tasks on the taught subjects.
 
 ### Python Web
 Python Web consists of 2 courses - Web Basics and Web Framework.<br/>

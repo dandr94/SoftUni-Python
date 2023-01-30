@@ -8,7 +8,8 @@
 ### Files
 These are the raw files that I created through all the modules.
 These are non edited since it's nice to see the improvement from the Basics to the End in terms of clean code, naming things, etc...
-It was a fun journey and I uploaded these mostly because I don't want to lose them if something happens and maybe for future nostalgia when I go back to them after a couple of years.
+It was a fun journey and I uploaded these mostly because I don't want to lose them if something happens and maybe for future nostalgia when I go back to them after a couple of years.<br/>
+
 `Important: these files are NOT all the tasks that were given to solve. Some of them are missing and some of them don't even get the maximum points in Judge.`
 
 
@@ -53,7 +54,7 @@ In Python Fundamentals your learn about:
 > Exam: Consists of 3 tasks on the taughed subjects.
 
 ### Python Advanced
-Python Advanced consists of 2 courses - Advanced and OOP
+Python Advanced consists of 2 courses - Advanced and OOP.<br/>
 In Advanced you learn about:
 | Topic | Additional Information |
 | ------ | ------ |
@@ -82,7 +83,7 @@ In OOP you learn about:
 > Exam: Consists of 3 tasks on the taughed subjects.
 
 ### Python Web
-Python Web consists of 2 courses - Web Basics and Web Framework
+Python Web consists of 2 courses - Web Basics and Web Framework.<br/>
 In Python Web Basics you learn about:
 | Topic | Additional Information |
 | ------ | ------ |
